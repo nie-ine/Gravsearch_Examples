@@ -54,7 +54,7 @@ CONSTRUCT {
   
 }
 ```
-- The result should look like the following:
+- The result should look like the following ( under the result instructions continue, please scroll down ) :
 
 ```
 {
