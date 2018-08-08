@@ -2,6 +2,7 @@
 
 ## First successfull request
 Make sure you have incunabula data in Knora, if in doubt execute the following script once more:<pre>./webapi/scripts/graphdb-free-init-knora-test.sh</pre>
+(Note: uncomment lines for Incunabula data import in ./webapi/scripts/graphdb-knora-test-data.expect, if necessary.)
 
 In Postman, create the following request (you can leave the comments in the body of the request, it will work with them included as well) :
 
